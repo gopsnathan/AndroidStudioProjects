@@ -1,0 +1,7 @@
+#Tue Oct 25 08:32:13 CEST 2016
+base.0=/Users/Gopi/AndroidStudioProjects/ActionBarCompat-ShareActionProvider/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3815d348ec991272a97d44412b3db51d16872ffd
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/Gopi/AndroidStudioProjects/ActionBarCompat-ShareActionProvider/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a122a8207c59f27c4ec5f3be80b8a90f111ab937/classes.dex
+base.1=/Users/Gopi/AndroidStudioProjects/ActionBarCompat-ShareActionProvider/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a122a8207c59f27c4ec5f3be80b8a90f111ab937
+file.0=/Users/Gopi/AndroidStudioProjects/ActionBarCompat-ShareActionProvider/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3815d348ec991272a97d44412b3db51d16872ffd/classes.dex
