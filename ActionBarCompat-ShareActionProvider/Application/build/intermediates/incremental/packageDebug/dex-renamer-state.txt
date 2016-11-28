@@ -1,4 +1,4 @@
-#Tue Oct 25 08:32:13 CEST 2016
+#Mon Oct 31 16:21:29 CET 2016
 base.0=/Users/Gopi/AndroidStudioProjects/ActionBarCompat-ShareActionProvider/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3815d348ec991272a97d44412b3db51d16872ffd
 renamed.1=classes2.dex
 renamed.0=classes.dex
