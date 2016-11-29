@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="25"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="95895959462879"
+    token="2660653236288505840"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="1074" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="2466" />
+    <task
+        name="verifier"
+        duration="886" />
+
+    <artifact
+        location="/Users/Gopi/AndroidStudioProjects/android-XYZTouristAttractions-master/Application/build/outputs/apk/Application-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="95895959462879"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/Gopi/AndroidStudioProjects/android-XYZTouristAttractions-master/Application/build/outputs/apk/Application-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/Gopi/AndroidStudioProjects/android-XYZTouristAttractions-master/Shared/build/intermediates/res/merged/androidTest/debug/layout/place_autocomplete_fragment.xml",
+        "source": "/Users/Gopi/AndroidStudioProjects/android-XYZTouristAttractions-master/Shared/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/res/layout/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/Users/Gopi/AndroidStudioProjects/android-XYZTouristAttractions-master/Shared/build/intermediates/res/merged/androidTest/debug/layout/place_autocomplete_progress.xml",
+        "source": "/Users/Gopi/AndroidStudioProjects/android-XYZTouristAttractions-master/Shared/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/res/layout/place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "/Users/Gopi/AndroidStudioProjects/android-XYZTouristAttractions-master/Shared/build/intermediates/res/merged/androidTest/debug/layout/place_autocomplete_item_prediction.xml",
+        "source": "/Users/Gopi/AndroidStudioProjects/android-XYZTouristAttractions-master/Shared/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/res/layout/place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "/Users/Gopi/AndroidStudioProjects/android-XYZTouristAttractions-master/Shared/build/intermediates/res/merged/androidTest/debug/layout/text_bubble.xml",
+        "source": "/Users/Gopi/AndroidStudioProjects/android-XYZTouristAttractions-master/Shared/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.3.4/res/layout/text_bubble.xml"
+    },
+    {
+        "merged": "/Users/Gopi/AndroidStudioProjects/android-XYZTouristAttractions-master/Shared/build/intermediates/res/merged/androidTest/debug/layout/place_autocomplete_item_powered_by_google.xml",
+        "source": "/Users/Gopi/AndroidStudioProjects/android-XYZTouristAttractions-master/Shared/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/res/layout/place_autocomplete_item_powered_by_google.xml"
+    }
+]

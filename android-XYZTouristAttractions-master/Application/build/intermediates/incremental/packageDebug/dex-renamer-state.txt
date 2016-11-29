@@ -1,0 +1,7 @@
+#Tue Nov 29 13:35:41 CET 2016
+base.0=/Users/Gopi/AndroidStudioProjects/android-XYZTouristAttractions-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_bdbba628d1e57f484260895ea1050d8b007d330a
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/Gopi/AndroidStudioProjects/android-XYZTouristAttractions-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b12241ac2bf3c4604bc64f2f9e13d499dbec3852/classes.dex
+base.1=/Users/Gopi/AndroidStudioProjects/android-XYZTouristAttractions-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b12241ac2bf3c4604bc64f2f9e13d499dbec3852
+file.0=/Users/Gopi/AndroidStudioProjects/android-XYZTouristAttractions-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_bdbba628d1e57f484260895ea1050d8b007d330a/classes.dex

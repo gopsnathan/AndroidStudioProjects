@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/Gopi/AndroidStudioProjects/android-XYZTouristAttractions-master/Wearable/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/bubble_mask.9.png",
+        "source": "/Users/Gopi/AndroidStudioProjects/android-XYZTouristAttractions-master/Wearable/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.3.4/res/drawable-xxhdpi-v4/bubble_mask.9.png"
+    },
+    {
+        "merged": "/Users/Gopi/AndroidStudioProjects/android-XYZTouristAttractions-master/Wearable/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/bubble_shadow.9.png",
+        "source": "/Users/Gopi/AndroidStudioProjects/android-XYZTouristAttractions-master/Wearable/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.3.4/res/drawable-xxhdpi-v4/bubble_shadow.9.png"
+    }
+]

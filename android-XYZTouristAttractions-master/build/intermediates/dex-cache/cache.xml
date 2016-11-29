@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Gopi/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.1/86b122e640af09b0723e1fa44083c354ba6d9089/glide-3.6.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="/Users/Gopi/AndroidStudioProjects/android-XYZTouristAttractions-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.6.1_d60fd86248cdc3a1f713345563610357348744a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Gopi/AndroidStudioProjects/android-XYZTouristAttractions-master/Application/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/Users/Gopi/AndroidStudioProjects/android-XYZTouristAttractions-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.1.1_883665ab5016ef8134e4f6e10f789c8495541b3b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Gopi/AndroidStudioProjects/android-XYZTouristAttractions-master/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/Gopi/AndroidStudioProjects/android-XYZTouristAttractions-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.4.0_b412e38036edf2c6cc71a34b9eb9cbd3727caa08/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Gopi/AndroidStudioProjects/android-XYZTouristAttractions-master/Application/build/intermediates/exploded-aar/com.android.support/design/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="/Users/Gopi/AndroidStudioProjects/android-XYZTouristAttractions-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.0.0_1471b3ce195529acad5a8eaf23903ee1872dbf18/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Gopi/AndroidStudioProjects/android-XYZTouristAttractions-master/Application/build/intermediates/exploded-aar/com.android.support/support-v13/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ca74722504f90166103d01edcdfdb93192eb1cba">
+        <dex dex="/Users/Gopi/AndroidStudioProjects/android-XYZTouristAttractions-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_a11154ceaa88a471564f81f03d7ae82d21e09f79/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Gopi/AndroidStudioProjects/android-XYZTouristAttractions-master/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a0781c9f9eb352531a3d5a0e8093bfa8cfd877f8">
+        <dex dex="/Users/Gopi/AndroidStudioProjects/android-XYZTouristAttractions-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b12241ac2bf3c4604bc64f2f9e13d499dbec3852/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Gopi/AndroidStudioProjects/android-XYZTouristAttractions-master/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2d83a3c4f9a524dc300ddcf635473ab60d50a52b">
+        <dex dex="/Users/Gopi/AndroidStudioProjects/android-XYZTouristAttractions-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_bdbba628d1e57f484260895ea1050d8b007d330a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Gopi/AndroidStudioProjects/android-XYZTouristAttractions-master/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/Gopi/AndroidStudioProjects/android-XYZTouristAttractions-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-8.4.0_fa3887c6393de6f49dbecedb4a0a70740bfde905/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Gopi/AndroidStudioProjects/android-XYZTouristAttractions-master/Application/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/Users/Gopi/AndroidStudioProjects/android-XYZTouristAttractions-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.0.0_82f88b344132a70db10c50e400c6afb28a21ad58/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Gopi/AndroidStudioProjects/android-XYZTouristAttractions-master/Application/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/Users/Gopi/AndroidStudioProjects/android-XYZTouristAttractions-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_0772d5c53ea9d431e4e6807d4bffbd7a15c32e51/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Gopi/AndroidStudioProjects/android-XYZTouristAttractions-master/Application/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.3.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="cf251baf39f5c5138224b67b4106eb6331abbd13">
+        <dex dex="/Users/Gopi/AndroidStudioProjects/android-XYZTouristAttractions-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.maps.android-android-maps-utils-0.3.4_295eae857841cff32445e681e27c342a78875ab8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Gopi/AndroidStudioProjects/android-XYZTouristAttractions-master/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="/Users/Gopi/AndroidStudioProjects/android-XYZTouristAttractions-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-8.4.0_a82d1316f828248ec7befa606c06319ca2b6cdee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Gopi/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.1/support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/Users/Gopi/AndroidStudioProjects/android-XYZTouristAttractions-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.1_e9f0c0a7b3d41396b9384f01bb5f1fe4feba4383/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Gopi/AndroidStudioProjects/android-XYZTouristAttractions-master/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/Users/Gopi/AndroidStudioProjects/android-XYZTouristAttractions-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.0.0_8280be48aa9f9fbed78efadca242ada0b83b0cc2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Gopi/AndroidStudioProjects/android-XYZTouristAttractions-master/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="/Users/Gopi/AndroidStudioProjects/android-XYZTouristAttractions-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-8.4.0_a9dfd801f084cbe155a3355dd5c51158432f5509/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Gopi/AndroidStudioProjects/android-XYZTouristAttractions-master/Application/build/intermediates/exploded-aar/com.android.support/support-v13/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="327f68d58bb39fb8b585150596b313541f8fdb87">
+        <dex dex="/Users/Gopi/AndroidStudioProjects/android-XYZTouristAttractions-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v13-24.1.1_a2aa79acb51068f7e50a825b3635b1545357e489/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Gopi/AndroidStudioProjects/android-XYZTouristAttractions-master/Application/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="/Users/Gopi/AndroidStudioProjects/android-XYZTouristAttractions-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.0.0_9f9f2712388910fc58bdac48fa668e4b967a6e7a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Gopi/AndroidStudioProjects/android-XYZTouristAttractions-master/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="/Users/Gopi/AndroidStudioProjects/android-XYZTouristAttractions-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-8.4.0_c71eae4d63dcdafc93931a4ba11c67b6f5048ecb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Gopi/AndroidStudioProjects/android-XYZTouristAttractions-master/Application/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/Users/Gopi/AndroidStudioProjects/android-XYZTouristAttractions-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.0.0_91827b6dcad03a99b4abbcc05b751fdcbe2ec619/classes.dex" />
+    </item>
+
+</items>
